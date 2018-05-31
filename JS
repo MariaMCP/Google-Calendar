@@ -1,5 +1,5 @@
 //Log on to Google with codingmcp@gmail.com
-//password Student17
+//password Rockets10
 //Open the calendar
 //Go to the settings
 //Click the name of the calendar to embed
