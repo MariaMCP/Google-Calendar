@@ -1,0 +1,9 @@
+//Log on to Google with codingmcp@gmail.com
+//password Student17
+//Open the calendar
+//Go to the settings
+//Click the name of the calendar to embed
+//Go to the Integrate Calendar section and click customize
+//Make your customizations and the update the code
+//Copy the <iframe ... </iframe> section
+//Paste it into your html
